@@ -13,7 +13,7 @@ view.appendChild(grass);
 
 var sun = document.createElement("div");
 sun.className = 'sun';
-view.appendChild(sun);
+view.appendChild(sun); 
 
 
 var i = 0;
